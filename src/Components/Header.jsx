@@ -12,7 +12,7 @@ function Header() {
         <div className="carousel-inner">
           <div className="carousel-item active">
             <img
-            style={{height:"580px"}}
+            style={{height:"400px"}}
               src="./bg-image-forest.jpeg
             "
               className="d-block w-100"
